@@ -1,0 +1,22 @@
+JOYSTICK:
+  VCC: 5V (arduino)
+  GND: GND (arduino)
+  X output: A0 (arduino)
+  Y output: A1 (arduino)
+  Joystick switch (optional as support is not added): D2 (arduino)
+
+IR SENSOR: 
+  VCC: D10 (arduino)
+  GND: D9 (arduino)
+  OUTPUT: D8 (arduino)
+
+POTENTIOMETER:
+  Terminal 1: VCC (arduino)
+  Terminal 2: GND (arduino)
+  Wiper: A2 (arduino)
+
+RGB LED:
+  Red: D3 (arduino)
+  Green: D5 (arduino)
+  Blue: D6 (arduino)
+  Common Anode: D4 (arduino)
