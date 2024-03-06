@@ -1,0 +1,21 @@
+ERROR 1: No module named serial
+  If this is the error, then the python library is not installed. Try: 
+  i)  Restarting shell
+  ii) Verifying library installation 
+-----------------------------------------------------------------------
+ERROR 2: No module named pydirectinput
+  If this is the error, then the python library is not installed. Try: 
+  i)  Restarting shell
+  ii) Verifying library installation 
+-----------------------------------------------------------------------
+ERROR 3: Couldn't open serial port, access denied
+  If this is the error, then the computer couldn't access the COM port. Try: 
+  i)   reconnecting the arduino UNO
+  ii)  Closing any application that might be using the COM port
+  iii) Connecting the Arduino on some other port.
+-------------------------------------------------------------------------
+ERROR 4: Syntax error
+  IF this is the error, then there is some problem in the code's syntax due to mistyping or some edit. Try: 
+  i)  Redownloading the orignal sketch from this Github repository.
+-------------------------------------------------------------------------
+
