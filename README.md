@@ -28,6 +28,11 @@ ________________________________________________________________________________
   STEP3: upload the HEX file using Xloader or upload the C++ arduino code.
   STEP4: Build the Hardware using the connnctions mentioned in HARDWARE_CONNECTIONS file.
   STEP5: Change the COM port in the python code to the COM port on which your arduino is connected.
-  STEP6: Run the code
+  STEP6: Run the code.
   STEP7: If no error is shown, the it should be working.
+</pre>
+___________________________________________________________________________________________________________________________
+**Troubleshooting:**
+<pre>
+    If there is some error, then troubleshoot your sketch using the TROUBLESHOOTING file attached or add a comment in the 'issues' tab.
 </pre>
