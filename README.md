@@ -3,6 +3,7 @@
   NOTE: Some part of the code has been copied from Youtube of BallaMOTO.
   NOTE: This is the upgraded version of the Game-Controller repository.
   NOTE: The python code is made adjusted for playing GEOfs (a web based flight simulator)
+  NOTE: You can set pydirectinput.FAILSAFE to 'True', if you don't want the mouse to move to the corner
 </pre>
 _________________________________________________________________________________________________________________________
 **NEEDED APPLICATIONS:**
