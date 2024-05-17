@@ -4,6 +4,8 @@
   NOTE: This is the upgraded version of the Game-Controller repository.
   NOTE: The python code is made adjusted for playing GEOfs (a web based flight simulator)
   NOTE: You can set pydirectinput.FAILSAFE to 'True', if you don't want the mouse to move to the corner
+  NOTE: The mouse_runtime_Ultra.py is the latest file
+  NOTE: The joystick.ino is the latest arduino code
 </pre>
 _________________________________________________________________________________________________________________________
 **NEEDED APPLICATIONS:**
